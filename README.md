@@ -34,7 +34,7 @@ Visualizations include:
    For airport names and coordinates  
    Source: [Partow Airport Database](https://www.partow.net/miscellaneous/airportdatabase/)
 
-> **Note:** All measurements in the datasets have been converted to the American system:
+> **Note:** All measurements in the datasets have been converted to the United States Customary system:
 > - Wind speed in miles per hour (mph)  
 > - Visibility in miles  
 > - Temperature in Fahrenheit  
