@@ -23,6 +23,7 @@ Visualizations include:
 - Bar plots of average wind speed per season and average distance per weekday/season
 - Top 10 departure and arrival airports mapped geographically with circle size and color indicating flight counts
 
+
 ## Data
 
 ### Importing Data from Kaggle and Other Sources
@@ -61,14 +62,22 @@ Visualizations include:
 | Arrive_Latitude / Arrive_Longitude | Arrival airport coordinates |
 | Distance_mile | Flight distance in miles |
 
+
+
 ## Key Insights
 
 - Flight activity peaks in the **morning and night**, with lower activity in the afternoon and evening.
 - **Flight distance distribution** is slightly right-skewed with a peak near 1000 miles.
+### Flight Distance Distribution
+![Flight Distance Distribution](flight_distance.png)
+
 - **Average wind speeds per weekday** range from **28.2 mph (Thursday)** to **29.0 mph (Friday)**, showing minor variations.
 - **Average distance per weekday** ranges from **1150.8 miles (Thursday)** to **1197.2 miles (Sunday)**.
 - **Average wind speeds per season**: Summer is highest (~28.99 mph), Fall lowest (~28.3 mph).  
 - **Average distance per season**: Spring highest (~1193 miles), Summer lowest (~1163.7 miles).
+### Average Distance per Season
+![Average Distance per Season](avg_distance_season.png)
+
 - **Boxplots of turbulence vs wind speed**:  
   - Low turbulence (1): middle 29 mph, top 44 mph, bottom 15 mph; whiskers 0–58 mph.  
   - Medium turbulence (2): middle 29 mph, top 44 mph, bottom 14 mph; whiskers same as low turbulence.  
@@ -84,6 +93,11 @@ Visualizations include:
 - **Heatmaps of flights by weekday and hour**:  
   - **Friday at 11 AM** has the most flights.  
   - Lowest flights occur on **Saturday at 11 AM**, **Tuesday at 6 PM**, and **Monday at 12 PM**. 
+
+### Flights Heatmap (Weekday vs Hour)
+![Flights Heatmap](flights_heatmap.png)
+
+
 
 ## Usage
 
