@@ -63,10 +63,25 @@ Visualizations include:
 
 ## Key Insights
 
-- Flight activity peaks in the morning and night.  
-- Average wind speeds and distances per season show minor variations.  
-- Top 10 airports account for the majority of flights.  
-- Heatmaps reveal weekday-hour patterns and seasonal trends.  
+- Flight activity peaks in the **morning and night**, with lower activity in the afternoon and evening.
+- **Flight distance distribution** is slightly right-skewed with a peak near 1000 miles.
+- **Average wind speeds per weekday** range from **28.2 mph (Thursday)** to **29.0 mph (Friday)**, showing minor variations.
+- **Average distance per weekday** ranges from **1150.8 miles (Thursday)** to **1197.2 miles (Sunday)**.
+- **Average wind speeds per season**: Summer is highest (~28.99 mph), Fall lowest (~28.3 mph).  
+- **Average distance per season**: Spring highest (~1193 miles), Summer lowest (~1163.7 miles).
+- **Boxplots of turbulence vs wind speed**:  
+  - Low turbulence (1): middle 29 mph, top 44 mph, bottom 15 mph; whiskers 0–58 mph.  
+  - Medium turbulence (2): middle 29 mph, top 44 mph, bottom 14 mph; whiskers same as low turbulence.  
+  - High turbulence (3): middle 28 mph, top 43 mph, bottom 15 mph; whiskers same as others.
+- **Boxplots of turbulence vs distance**:  
+  - Low turbulence: median ~1000 miles, top ~1700 miles, bottom ~600 miles.  
+  - Medium turbulence: median ~1100 miles, top ~1800 miles, bottom ~600 miles.  
+  - High turbulence: median ~1000 miles, top ~1800 miles, bottom ~600 miles.
+- **Top 5 departure airports**: MCI, AUS, BNA, SAN, IAH.  
+- **Top 10 arrival airports**: IND, DTW, MCO, DFW, LAX (and others).  
+- **Heatmaps of flights by weekday and hour**:  
+  - **Friday at 11 AM** has the most flights.  
+  - Lowest flights occur on **Saturday at 11 AM**, **Tuesday at 6 PM**, and **Monday at 12 PM**. 
 
 ## Usage
 
