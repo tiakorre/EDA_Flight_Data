@@ -98,7 +98,9 @@ Visualizations include:
   - **Friday at 11 AM** has the most flights.  
   - Lowest flights occur on **Saturday at 11 AM**, **Tuesday at 6 PM**, and **Monday at 12 PM**. 
 
-
+### Interactive Dashboard
+Explore the full flight data visualizations interactively on Tableau:  
+[View the Dashboard](https://public.tableau.com/views/Flight_EDA_VIZ/Distrbutionofflightdistances?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Usage
