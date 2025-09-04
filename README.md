@@ -100,7 +100,7 @@ Visualizations include:
 
 ### Interactive Dashboard
 Explore the full flight data visualizations interactively on Tableau:  
-[View the Dashboard]([https://public.tableau.com/app/profile/tia.hannah/viz/FlightTurbulenceandDistanceVisualization/AirportTurbulenceMap#1])
+[View the Dashboard](https://public.tableau.com/app/profile/tia.hannah/viz/FlightTurbulenceandDistanceVisualization/AirportTurbulenceMap#1)
 
 
 ## Usage
