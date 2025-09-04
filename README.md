@@ -77,8 +77,10 @@ Visualizations include:
   - Low turbulence: median ~1000 miles, top ~1700 miles, bottom ~600 miles.  
   - Medium turbulence: median ~1100 miles, top ~1800 miles, bottom ~600 miles.  
   - High turbulence: median ~1000 miles, top ~1800 miles, bottom ~600 miles.
-- **Top 5 departure airports**: MCI, AUS, BNA, SAN, IAH.  
+- **Top 10 departure airports**: MCI, AUS, BNA, SAN, IAH (and others).
 - **Top 10 arrival airports**: IND, DTW, MCO, DFW, LAX (and others).  
+
+
 - **Heatmaps of flights by weekday and hour**:  
   - **Friday at 11 AM** has the most flights.  
   - Lowest flights occur on **Saturday at 11 AM**, **Tuesday at 6 PM**, and **Monday at 12 PM**. 
